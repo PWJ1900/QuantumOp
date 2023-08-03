@@ -14,6 +14,7 @@
 
     Learn about optimization in quantum circuits, and learn how to apply it to quantum algorithms.If I have a chance, I will 
     involve machine learning knowledge later.
-* first Demo --- QAOA & op & cir
+* first Demo --- QAOA & op & cir 
+  * job_system的调用方式<a href="https://qiskit.org/ecosystem/ibm-provider/tutorials/1_the_ibm_quantum_account.html">arrive to</a>
 * 
 * 
